@@ -3,3 +3,6 @@ https://apkcombo.com/search/nova-launcher#gsc.tab=0&gsc.q=nova%20launcher&gsc.so
 
 -- Executors
 https://www.mediafire.com/file/4ow2ft59oigoatj/[+Fixed+Crash+]+Fluxus+v2.637.apk/file
+
+-- Script
+Blox Fruit: loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
