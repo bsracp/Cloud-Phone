@@ -1,9 +1,16 @@
--- Discord
+-- Discord --
 https://apkcombo.com/search/discord#gsc.tab=0&gsc.q=discord&gsc.sort=
 
--- Executors
-Fluxus
-https://www.mediafire.com/file/4ow2ft59oigoatj/[+Fixed+Crash+]+Fluxus+v2.637.apk/file
+-- Executors --
 
--- Script
+Fluxus
+https://www.mediafire.com/file/9ko7ifvpo328can/[Fix+Crash]+Fluxus+V2.639.apk/file
+
+Delta
+https://www.mediafire.com/file/mvwmo3z1rhs8dkk/Delta-2.639.688.apk/file?dkey=3a0rmd8ke9o&r=1531
+
+Trigon
+https://www.mediafire.com/file/dxendzgtxtz8muh/Trigon_v2.639.apk/file
+
+-- Script --
 Blox Fruit: loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
