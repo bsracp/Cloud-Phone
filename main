@@ -17,6 +17,4 @@ Blox Fruit: loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/B
 
 Doors: loadstring(game:HttpGet('https://rawscripts.net/raw/DOORS-FFJ-Hub-11365'))()
 
-
-https://www.roblox.com/games/14298053780/US-Open-Champions-of-the-Court-Tennis
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sakupenXD/SakupScripts/main/USOpenINSTANTS"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraScript/Script/main/WalmartRacing", true))()
