@@ -669,7 +669,7 @@ function OrionLib:MakeWindow(WindowConfig)
 		TabConfig = TabConfig or {}
 		TabConfig.Name = TabConfig.Name or "Tab"
 		TabConfig.Icon = TabConfig.Icon or ""
-		TabConfig.Color = TabConfig.Color or Color3.fromRGB(240, 240, 240)
+		TabConfig.ColorTitle = TabConfig.ColorTitle or Color3.fromRGB(240, 240, 240)
 		TabConfig.PremiumOnly = TabConfig.PremiumOnly or false
 
 		local TabFrame = SetChildren(SetProps(MakeElement("Button"), {
@@ -686,7 +686,7 @@ function OrionLib:MakeWindow(WindowConfig)
 			AddThemeObject(SetProps(MakeElement("Label", TabConfig.Name, 14), {
 				Size = UDim2.new(1, -35, 1, 0),
 				Position = UDim2.new(0, 35, 0, 0),
-				Color = TabConfig.Color,
+				TextColor3 = TabConfig.ColorTitle,
 				Font = Enum.Font.FredokaOne,
 				TextTransparency = 0.4,
 				Name = "Title"
